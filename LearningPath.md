@@ -2,17 +2,22 @@
 
 ## Operating system and commands 
  - centos 
-   yum
- -- bash
+ - yum
+ - bash
  - Linux
  
- ## package manager
- 
+ ## package manager 
 - npn
 - yarn
 
 
 ## languagae 
+ - C#
+    1. Dependency injection
+    2. Startup calls
+    3. Difference between ASP.Net and ASP.Net Core
+    4. Anonymous method
+    5. Functional programming c#
  - Python
  - Javascript
  - Go
@@ -27,3 +32,9 @@
 - chain or responsitility 
 - unit of work
 - state pattern 
+
+## Azure 
+ - Azure fundtions
+ - Sample Microservice on Azure 
+ - Kubernaties
+
